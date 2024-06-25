@@ -1,4 +1,4 @@
-# Generate-random-quotes-using-API
+# Quote Generator
 
 This Python script fetches a random quote from Quotable, an open API for quotes.
 
